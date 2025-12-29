@@ -50,8 +50,9 @@ pip install -r requirements.txt
 
 ## Repository Structure
 ```bash
-├── data/               			  # Raw dataset
-├── notebooks/          			  # Jupyter notebooks with step-by-step analysis
-├── visuals_and_insights.docx/        # Exported charts and plots
-├── requirements.txt/				  # Install dependencies 
-└── README.txt           			  # Project documentation
+├── README.md/               		# Raw dataset
+├── main.ipynb/          			  # Jupyter notebooks with step-by-step analysis
+├── requirements.txt/				    # Install dependencies
+├── visuals_and_insights.docx/  # Exported charts and plots 
+└── zomato.csv           			  # Project documentation
+
