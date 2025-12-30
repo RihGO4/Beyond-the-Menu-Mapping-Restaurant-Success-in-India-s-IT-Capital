@@ -27,7 +27,7 @@ Ultimately, this project serves as a Strategic Playbook for understanding the in
 ---
 
 ## Data Context
-The dataset utilized contains records for over 12,000+ restaurants across Bengaluru. It includes critical variables such as location, cuisine types, average cost for two, aggregate ratings, and service availability. Through a rigorous cleaning pipeline, this raw data was transformed into a structured format suitable for advanced statistical visualization and strategic inference.
+The dataset, consisting of a 500mb csv file, utilized contains records for over 12,000+ restaurants across Bengaluru. It includes critical variables such as location, cuisine types, average cost for two, aggregate ratings, and service availability. Through a rigorous cleaning pipeline, this raw data was transformed into a structured format suitable for advanced statistical visualization and strategic inference. 
 
 ## The "Value Score" Metric
 A core highlight of this project is the introduction of a custom business metric:
@@ -47,7 +47,7 @@ To install dependencies, run:
 pip install -r requirements.txt
 
 ---
-
+### Download the zomato.csv file through this link https://drive.google.com/file/d/1pXxOlYssXhEH1UiN_w3o40KqkgMtHn3E/view?usp=sharing
 ## Repository Structure
 ```bash
 ├── README.md/               		# Raw dataset
@@ -55,4 +55,5 @@ pip install -r requirements.txt
 ├── requirements.txt/				    # Install dependencies
 ├── visuals_and_insights.docx/  # Exported charts and plots 
 └── zomato.csv           			  # Project documentation
+
 
